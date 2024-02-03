@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MASalaryTransparencyAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4be574997469c663b62af0db4fa45ccf46d9abbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("MASalaryTransparencyAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MASalaryTransparencyAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

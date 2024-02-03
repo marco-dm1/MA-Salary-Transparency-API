@@ -31,3 +31,4 @@ C:\Users\Marco Diaz Moore\Documents\Github Projects\MASalaryTransparencyAPI\obj\
 C:\Users\Marco Diaz Moore\Documents\Github Projects\MASalaryTransparencyAPI\obj\Debug\net8.0\MASalaryTransparencyAPI.pdb
 C:\Users\Marco Diaz Moore\Documents\Github Projects\MASalaryTransparencyAPI\obj\Debug\net8.0\MASalaryTransparencyAPI.genruntimeconfig.cache
 C:\Users\Marco Diaz Moore\Documents\Github Projects\MASalaryTransparencyAPI\obj\Debug\net8.0\ref\MASalaryTransparencyAPI.dll
+C:\Users\Marco Diaz Moore\Documents\Github Projects\MASalaryTransparencyAPI\obj\Debug\net8.0\MASalaryTransparencyAPI.sourcelink.json
