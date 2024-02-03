@@ -1,0 +1,6 @@
+@MASalaryTransparencyAPI_HostAddress = http://localhost:5170
+
+GET {{MASalaryTransparencyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
